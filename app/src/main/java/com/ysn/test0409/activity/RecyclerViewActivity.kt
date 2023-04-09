@@ -2,13 +2,11 @@ package com.ysn.test0409.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
-import com.ysn.test0409.activity.RecyclerViewActivity.MyAdapter
 import com.ysn.test0409.data.App
 import android.os.Bundle
 import android.view.View
 import com.ysn.test0409.R
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.ysn.test0409.activity.RecyclerViewActivity.MyViewHoder
 import android.view.ViewGroup
 import android.widget.Button
 import android.widget.ImageView
