@@ -1,18 +1,17 @@
 package com.ysn.test0409.activity
 
-import androidx.appcompat.app.AppCompatActivity
-import androidx.recyclerview.widget.RecyclerView
-import com.ysn.test0409.data.App
 import android.os.Bundle
 import android.view.View
-import com.ysn.test0409.R
-import androidx.recyclerview.widget.LinearLayoutManager
 import android.view.ViewGroup
 import android.widget.Button
 import android.widget.ImageView
-import android.widget.Toast
 import android.widget.TextView
-import java.util.ArrayList
+import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
+import com.ysn.test0409.R
+import com.ysn.test0409.data.App
 
 class RecyclerViewActivity : AppCompatActivity() {
     private var mRecyclerView: RecyclerView? = null
